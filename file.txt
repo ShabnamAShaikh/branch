@@ -1,14 +1,6 @@
+
 new changes to be made
 
+this is a new change
 
-
-
-
-
-
-
-
-
-
-
-
+new change was made in branch master to resolve conflict
